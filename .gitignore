@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+
+# STM stuff
+
+# Misc
+*.map
+*.m
+*.png
+
+# Eclipse CDT project files
+.settings/
+
+# Vagrant directory
+.vagrant/
+
+# Include makefiles
+!Makefile
+*~
+
+# Libraries
+/lib
+
+*/Debug/
